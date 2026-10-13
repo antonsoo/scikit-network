@@ -2,6 +2,11 @@
 History
 =======
 
+Next release
+------------
+
+* Use each edge's own weight during label propagation.
+
 0.33.5 (2025-11-19)
 -------------------
 
